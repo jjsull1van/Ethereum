@@ -1,0 +1,1 @@
+Unzip both EthereumRoster.zip and dependencies.zip, at the root of your local stoarage or c:\drive. 
